@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Vian</title>
+</head>
+<body>
+    <img src="assets/icons/garnacho.jpg" alt="garnacho" class="pp">
+    <div class="left-side">
+        <div class="left-container">
+            <div class="left-title-box">KONTAK</div>
+            <div class="left-value">
+                <div class="left-list">
+                    <a href="tel:081905352320" target="_blank" class="link-list">
+                        <div class="left-list-dot"></div>
+                        <div class="left-list-icon">
+                            <img src="assets/icon/phone.gif" alt="phone">
+                        </div>
+                        <div class="left-list-text">081905352320 Bisa Hubungi Saya</div>
+                    </a>
+                </div>
+                <div class="left-list">
+                    <a href="mailto:putrarevian29@gmail.com" target="_blank" class="link-list">
+                        <div class="left-list-dot"></div>
+                        <div class="left-list-icon">
+                            <img src="assets/icon/email.gif" alt="phone">
+                        </div>
+                        <div class="left-list-text">putrarevian29@gmail.com</div>
+                    </a>
+                </div>
+                <div class="left-list">
+                    <a href="7" target="_blank" class="link-list">
+                        <div class="left-list-dot"></div>
+                        <div class="left-list-icon">
+                            <img src="assets/icon/location.gif" alt="phone">
+                        </div>
+                        <div class="left-list-text">Perumahan Cibinong Griya Asri</div>
+                    </a>
+                </div>
+            </div>
+            <div class="left-title-box">PENDIDIKAN</div>
+            <div class="left-value">
+                <div class="left-list">
+                    <div class="left-list-title">(SMP) SMPN 2 Cibinong</div>
+                    <div class="left-list-time">2021 - 2023</div>
+                </div>
+                <div class="left-list">
+                    <div class="left-list-title">(SD) Mi Nurul Ikhsan</div>
+                    <div class="left-list-time">2015 - 2021</div>
+                </div>
+               <div class="left-list">
+                    <div class="left-list-title">(TX) Tk Robani</div>
+                    <div class="left-list-time">2012 - 2014</div>
+                    <div class="left-list-time">2012 - 2014</div>
+
+
+                </div>
+            </div>
+            <div class="left-title-box">MAPEL</div>
+            <div class="left-value">
+                <div class="left-value-desc">Berikut adalah mapel favorit saya:</div>
+                    <div class="left-subject-title">Sosiologi #1</div>
+                    <div class="left-subject-container">
+                        <div class="left-subject-value" style="width:88%">90%</div>
+                    </div>
+                    <div class="left-subject-title">PJOK #2</div>
+                    <div class="left-subject-container">
+                        <div class="left-subject-value" style="width:80%">88%</div>
+                        <div class="left-subject-title">IPS #3</div>
+                    </div>
+                    <div class="left-subject-container">
+                        <div class="left-subject-value" style="width:75%">75%</div>
+                    </div>
+                    <div class="left-subject-title">Dan Lain Lainya #4</div>
+                    <div class="left-subject-container">
+                        <div class="left-subject-value" style="width: 70%">70%</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="right-side">
+            <div class="name-container">
+                <div class="name-profile">
+                    <div class="name-profile-text">Vian</div>
+                    <div class="name-profile-divider-master">
+                        <div class="name-profile-divider-first"></div>
+                        <div class="name-profile-divider"></div>
+                        <div class="name-profile-divider-last"></div>
+                    </div>
+                </div>
+                <div class="nick-profile">
+                    <div class="nick-profile-box">Putra Tri Kusuma</div>
+                </div>
+                <div class="desc-first">
+                    <p class="desc-first-text">
+                    manchester united didirikan pada 1 Januari 1878 dengan nama Newton Heath LYR Football Club oleh pekerja perusahaan kereta api Lancashire and Yorkshire Railway di Newton Heath, Manchester.[1] Awalnya Newton Heath bermain dalam pertandingan persahabatan melawan tim dari departemen dan perusahaan perkeretaapian lain di lapangan mereka di North Road.[2] Pada tahun 1888, mereka dan beberapa klub di Inggris Utara dan Midlands lain mendirikan liga regional The Combination. Belum genap semusim berjalan, liga tersebut dibubarkan. Newton Heath kemudian bermain di Football Alliance, liga yang baru dibentuk pada waktu itu.[3] Setelah tiga musim berjalan, pada musim 1892-93, liga tersebut digabung dengan
+                    </p>
+                </div>
+                <div class="desc-last">
+                    <p class="desc-last-text">
+                        Football leaguekompetisi liga profesional berskala nasional pertama di Inggris. Newton Heath terpilih untuk bertanding di Divisi Pertama.
+                        [4] Di saat yang bersamaan, mereka resmi menjadi klub independen yang tidak terafiliasi dengan Lancashire and Yorkshire Railway sehingga "LYR" dihapus dari nama klub.
+                    </p>
+                </div>
+            </div>
+            <div class="right-container">
+                <div class="right-title-box">PRESTASI / PENGALAMAN</div>
+                <div class="right-value">
+                    <div class="right-title">Selalu Mengikuti Eskul Bulu Tangkis</div>
+                    <div class="right-time">2020 - 2022</div>
+                    <div class="right-value-text">
+                        selalu meengikuti eskul bulu tangkis.
+                        dan sangat senang bisa bertemu dengan teman teman saya di SMP
+                    </div>
+                    <div class="right-title">Saya mencintai sepak bola</div>
+                    saya menyukai olahraga sepak BOLA
+                    dan mengikuti futsal antar kelas pas smp.
+                    <div class="right-time">2018 - 2019</div>
+                    <div class="right-value-text">
+                        dan di situ juga pas waktu itu lagi naik naiknya covid 19 melanda di indonesia
+                        pada saat itu dan pas itu juga saat itu belajar dan daring lewat
+                        handphone dan internet.
+                    </div>
+                    <div class="right-title">Saya fans Manchester united dan ReedsDevils</div>
+                    <div class="right-time">2021 - 2023</div>
+                    <div class="right-value-text">
+                        saya sangat menyukai manchester united dan menjuarai primer league dari tahun 1998-2008
+                        pemain favorite saya adalah alejandro garnacho dan diego forlan
+
+                    </div>
+                </div>
+                <div class="right-title-box" style="margin-top:25px">HOBI</div>
+                <div class="right-value">
+                    <div class="right-value-container">
+                        <div class="right-value-item">BERMAIN GAME PES</div>
+                        <div class="right-value-item">MENDENGARKAN MUSIK</div>
+                        <div class="right-value-item">BERMAIN BOLA</div>
+                        <div class="right-value-item">JALAN JALAN</div>
+                        <div class="right-value-item">BEROLAHRAGA</div>
+                        <div class="right-value-item">#GGMU</div>
+                    </div>
+                    <div class="sosmed-container">
+                        <div class="sosmed-content">
+                            <div class="sosmed">
+                                <div class="sosmed-text">FOLLOW IG GW @drizzleviann</div>
+                                <a href="https://www.instagram.com/drizzleviann/"target="-blank"><img src="assets/icons/instagram.png" alt="phone"></a>
+                            </div>
+                            <div class="sosmed-divider-master">
+                                <div class="sosmed-divider-first"></div>
+                                <div class="sosmed-divider"></div>
+                                <div class="sosmed-divider-last"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
